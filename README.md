@@ -20,8 +20,20 @@ The project goals:
 
 # Resources
 
+## Go
+
 - [Go Language Specification](https://go.dev/ref/spec)
+
+## Clojure
+
 - [Clojure](https://clojure.org/index)
+
+## Persistent Data Structures
+
 - [Persistent Data Structures](https://en.wikipedia.org/wiki/Persistent_data_structure)
 - [Persistent Data Structures YouTube Playlist](https://www.youtube.com/playlist?list=PLYdDeVUtQN6ZFldoeqGMG7icpW9ah20tk)
 - [Persistent Data Structures Introduction](https://arpitbhayani.me/blogs/persistent-data-structures-introduction/)
+
+## Interpreters
+
+- [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
